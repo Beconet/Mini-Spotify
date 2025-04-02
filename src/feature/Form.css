@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.input{
+    color: #8E8E8E;
+    background-color: #404040;
+    border: 2px solid  #404040;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+.submit_btn{
+    margin: 10px;
+    color: white;
+    background-color: #1ed760;
+    width: 300px;
+    border: 2px solid  #1ed760;
+    border-radius: 10px;
+}
+.submit_btn:hover{
+    border: 2px solid  #a3ffc3;
+}
